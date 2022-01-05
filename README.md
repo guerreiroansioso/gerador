@@ -1,0 +1,2 @@
+# gerador
+Gerador de Bolão.
